@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35440" started-at="2022-10-10T11:50:47 IST" finished-at="2022-10-10T11:51:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35440" started-at="2022-10-10T11:50:47 IST" finished-at="2022-10-10T11:51:23 IST">
+      <class name="org.base.Testing">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.base.Testing@eb21112]" name="launchBrowser" is-config="true" duration-ms="35612" started-at="2022-10-10T11:50:12 IST" finished-at="2022-10-10T11:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="LoginDetails()[pri:0, instance:org.base.Testing@eb21112]" name="LoginDetails" is-config="true" duration-ms="186" started-at="2022-10-10T11:50:47 IST" finished-at="2022-10-10T11:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDetails -->
+        <test-method status="PASS" signature="login()[pri:0, instance:org.base.Testing@eb21112]" name="login" is-config="true" duration-ms="8244" started-at="2022-10-10T11:50:47 IST" finished-at="2022-10-10T11:50:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="hotelCredentials()[pri:0, instance:org.base.Testing@eb21112]" name="hotelCredentials" is-config="true" duration-ms="11940" started-at="2022-10-10T11:50:56 IST" finished-at="2022-10-10T11:51:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelCredentials -->
+        <test-method status="PASS" signature="search()[pri:0, instance:org.base.Testing@eb21112]" name="search" duration-ms="2651" started-at="2022-10-10T11:51:08 IST" finished-at="2022-10-10T11:51:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="bookingHotels()[pri:0, instance:org.base.Testing@eb21112]" name="bookingHotels" is-config="true" duration-ms="616" started-at="2022-10-10T11:51:10 IST" finished-at="2022-10-10T11:51:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingHotels -->
+        <test-method status="PASS" signature="booking()[pri:0, instance:org.base.Testing@eb21112]" name="booking" is-config="true" duration-ms="61" started-at="2022-10-10T11:51:11 IST" finished-at="2022-10-10T11:51:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking -->
+        <test-method status="PASS" signature="printId()[pri:0, instance:org.base.Testing@eb21112]" name="printId" is-config="true" duration-ms="11684" started-at="2022-10-10T11:51:11 IST" finished-at="2022-10-10T11:51:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printId -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:org.base.Testing@eb21112]" name="quit" is-config="true" duration-ms="16883" started-at="2022-10-10T11:51:23 IST" finished-at="2022-10-10T11:51:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- org.base.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
